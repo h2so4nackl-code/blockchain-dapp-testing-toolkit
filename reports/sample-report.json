@@ -1,0 +1,14 @@
+{
+  "scope": "sanitized local JSON-RPC fixtures",
+  "checks": {
+    "rpc_envelope": "PASS",
+    "request_response_id": "PASS",
+    "error_classification": "PASS",
+    "transaction_shape": "PASS",
+    "state_progression": "PASS"
+  },
+  "network_contacted": false,
+  "secrets_loaded": false,
+  "overall": "PASS"
+}
+
