@@ -15,8 +15,11 @@ The toolkit never signs, submits, recovers, or constructs transactions. It conta
 
 ## Run locally
 
+Create and activate the virtual environment before installing dependencies. On Windows PowerShell, use `.\.venv\Scripts\Activate.ps1` instead of `source .venv/bin/activate`.
+
 ```bash
 python -m venv .venv
+source .venv/bin/activate
 python -m pip install -e ".[dev]"
 pytest -q
 dapp-check fixtures/rpc-success.json
