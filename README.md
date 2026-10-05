@@ -1,5 +1,7 @@
 # Blockchain / dApp Testing Toolkit
 
+[![Tests](https://github.com/h2so4nackl-code/blockchain-dapp-testing-toolkit/actions/workflows/tests.yml/badge.svg)](https://github.com/h2so4nackl-code/blockchain-dapp-testing-toolkit/actions/workflows/tests.yml)
+
 A read-only personal portfolio project for validating sanitized JSON-RPC responses, inspecting transaction fields, classifying network/node errors, and checking simple state progression.
 
 The toolkit never signs, submits, recovers, or constructs transactions. It contains no private keys, seed phrases, wallet files, credentials, production endpoints, private IP addresses, mining accounts, or proprietary code.
