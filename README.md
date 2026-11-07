@@ -47,14 +47,6 @@ Only read-only methods belong in this project. `READ_ONLY_METHODS` documents the
 - Fixtures model Ethereum-style JSON-RPC only and do not imply experience with a specific private network.
 - Availability and latency of live providers are not benchmarked.
 
-## Suggested GitHub description
-
-Read-only JSON-RPC and dApp QA toolkit for health, error classification, transaction inspection, state checks, and reproducible reports.
-
-## Suggested topics
-
-`blockchain-testing`, `dapp`, `json-rpc`, `quality-assurance`, `software-testing`, `python`, `pytest`, `api-testing`
-
 ## License
 
 MIT
